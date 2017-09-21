@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="location_to_be_used" label="Location to be used" language="en" table="x_snc_loaner_reque_loaner_request">
+    <sys_documentation element="x_snc_loaner_reque_city" label="City" language="en" table="sys_user">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>location_to_be_used</element>
+            <element>x_snc_loaner_reque_city</element>
             <help/>
             <hint/>
-            <label>Location to be used</label>
+            <label>City</label>
             <language>en</language>
-            <name>x_snc_loaner_reque_loaner_request</name>
-            <plural>Location to be used</plural>
+            <name>sys_user</name>
+            <plural>Cities</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-09-20 20:30:46</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>cb278a86801503007f44c08ec154726b</sys_id>
+            <sys_created_on>2017-09-21 15:11:59</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>4fc786da80d503007f44c08ec1547255</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Location to be used</sys_name>
+            <sys_name>City</sys_name>
             <sys_package display_value="Loaner_request" source="x_snc_loaner_reque">36eb8d8680d103007f44c08ec1547290</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Loaner_request">36eb8d8680d103007f44c08ec1547290</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_loaner_reque_loaner_request_location_to_be_used_en</sys_update_name>
+            <sys_update_name>sys_documentation_sys_user_x_snc_loaner_reque_city_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-09-20 20:30:46</sys_updated_on>
+            <sys_updated_on>2017-09-21 15:11:59</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
